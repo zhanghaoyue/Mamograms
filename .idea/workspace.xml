@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81e8c69d-8358-4d33-8357-b69cab8a7524" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Project_1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testLog.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_preprocessing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,9 +35,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="253" />
-    <option name="y" value="134" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2122" />
+    <option name="y" value="217" />
     <option name="width" value="1389" />
     <option name="height" value="879" />
   </component>
@@ -202,18 +191,17 @@
       <workItem from="1555606740327" duration="60000" />
       <workItem from="1555955216501" duration="1593000" />
       <workItem from="1555957391412" duration="2259000" />
-      <workItem from="1556133890163" duration="2486000" />
+      <workItem from="1556133890163" duration="4317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19553000" />
+    <option name="totallyTimeSpent" value="21384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1920" height="1202" extended-state="7" />
-    <editor active="true" />
+    <frame x="1987" y="25" width="1853" height="1175" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25133404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,7 +217,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3298279" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.3298279" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.3280522" />
+      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.33652008" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="15" weight="0.3298279" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -270,8 +258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state relative-caret-position="253">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
         </state>
       </provider>
     </entry>

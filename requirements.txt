@@ -53,7 +53,7 @@ language-selector==0.1
 louis==3.5.0
 lxml==4.3.3
 macaroonbakery==1.2.1
-Mako==1.0.8
+Mako==1.2.2
 Markdown==3.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
